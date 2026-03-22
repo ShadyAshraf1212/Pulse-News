@@ -5,7 +5,8 @@
 *.swp
 .buildlog/
 .history
-
+.metadata
+*.iml
 
 
 # Flutter/Dart/Pub related
