@@ -1,4 +1,4 @@
-import 'package:pulse_news/model/source_response.dart';
+import 'package:pulse_news/api/model/source_response.dart';
 
 class NewsResponse {
   NewsResponse({
